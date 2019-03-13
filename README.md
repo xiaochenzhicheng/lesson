@@ -20,13 +20,3 @@ Android实现RecyclerView侧滑删除和长按拖拽-ItemTouchHelper<br>http://b
 基于RxJava、RxAndroid的EventBus实现<br>http://www.cnblogs.com/tiantianbyconan/p/4578699.html</br>
 
 深入浅出RxJava<br>http://blog.csdn.net/lzyzsd/article/details/41833541</br>
-
-## 五、声明 ##
-
-应用中展示的所有内容均搜集自互联网，若内容有侵权请联系作者进行删除处理。本应用仅用作分享与学习。
-
-## 六、关于作者 ##
-
-微博：http://weibo.com/palfansinheart
-
-CSDN博客：http://blog.csdn.net/oushangfeng123?viewmode=contents
